@@ -67,7 +67,7 @@ section h3 {
   color: white;
   text-align: center;
   padding: 6rem 2rem;
-  border-radius: var(--radius);
+  border-radius: 0px;
   max-width: 100%;
 }
 
